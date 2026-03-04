@@ -1,0 +1,14 @@
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\bin\Debug\net8.0\autoclass.exe
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\bin\Debug\net8.0\autoclass.deps.json
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\bin\Debug\net8.0\autoclass.runtimeconfig.json
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\bin\Debug\net8.0\autoclass.dll
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\bin\Debug\net8.0\autoclass.pdb
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\autoclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\autoclass.AssemblyInfoInputs.cache
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\autoclass.AssemblyInfo.cs
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\autoclass.csproj.CoreCompileInputs.cache
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\autoclass.dll
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\refint\autoclass.dll
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\autoclass.pdb
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\autoclass.genruntimeconfig.cache
+C:\Users\nadra.balazs\Documents\Nádra Balázs\autoclass\obj\Debug\net8.0\ref\autoclass.dll
