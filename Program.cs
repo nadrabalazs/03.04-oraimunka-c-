@@ -14,10 +14,10 @@
             {
                 if (skoda.KellSzervizelni())
                 {
-                    skoda.szervizElvegzese();
+                    skoda.SzervizElvegzese();
                     Console.WriteLine("SZERVIZ!");
                 }
-                skoda.Menj(1000);
+                skoda.Menj(800);
                 Console.WriteLine($"{i+1}.{skoda}");
             }
         }
